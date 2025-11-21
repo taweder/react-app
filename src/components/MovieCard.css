@@ -1,0 +1,26 @@
+.movie-card {
+  width: 250px;
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+  margin: 15px;
+  box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.25);
+  transition: all 0.2s ease-in-out;
+}
+
+.movie-card:hover {
+  transform: scale(1.05);
+}
+
+.movie-poster {
+  width: 100%;
+}
+
+.movie_details_heading {
+  font-size: 15px;
+  font-family: "Momo Signature", cursive;
+}
+
+.movie_descrip {
+  padding: 0px 30px;
+}
