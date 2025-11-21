@@ -9,12 +9,10 @@ import MovieList from "./components/MovieList.jsx";
 import NowPlay from "./components/NowPlay.jsx";
 
 function App() {
-  const name = "Your Mom";
-
   return (
     <>
       <header>
-        <h1>Candy Listing For {name}</h1>
+        <h1>Movie Listings for Class</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis illo
           cumque sit dignissimos, consectetur nemo possimus accusamus maxime
